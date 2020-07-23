@@ -1,0 +1,372 @@
+2020-07-21T08:32:17+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WooCommerce\wp-includes\Requests\Transport\cURL.php on line 463
+
+2020-07-21T09:15:06+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WooCommerce\wp-admin\includes\class-wp-filesystem-direct.php on line 76
+
+2020-07-21T09:16:39+00:00 CRITICAL Uncaught Error: Class 'Elementor\Widget_Base' not found in C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\widgets\elementor\class.yith-wcwl-elementor-add-to-wishlist.php:15
+Stack trace:
+#0 C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\class.yith-wcwl-shortcode.php(169): include_once()
+#1 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(286): YITH_WCWL_Shortcode::init_elementor_widgets('')
+#2 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\WooCommerce\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\WooCommerce\wp-settings.php(450): do_action('init')
+#5 C:\xampp\htdocs\WooCommerce\wp-config.php(89): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\WooCommerce\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\WooCommerce\wp-admin\admin.php(31): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\WooCommer in C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\widgets\elementor\class.yith-wcwl-elementor-add-to-wishlist.php on line 15
+
+2020-07-21T09:16:44+00:00 CRITICAL Uncaught Error: Class 'Elementor\Widget_Base' not found in C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\widgets\elementor\class.yith-wcwl-elementor-add-to-wishlist.php:15
+Stack trace:
+#0 C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\class.yith-wcwl-shortcode.php(169): include_once()
+#1 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(286): YITH_WCWL_Shortcode::init_elementor_widgets('')
+#2 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\WooCommerce\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\WooCommerce\wp-settings.php(450): do_action('init')
+#5 C:\xampp\htdocs\WooCommerce\wp-config.php(89): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\WooCommerce\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\WooCommerce\wp-admin\admin.php(31): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\WooCommer in C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\widgets\elementor\class.yith-wcwl-elementor-add-to-wishlist.php on line 15
+
+2020-07-21T09:16:46+00:00 CRITICAL Uncaught Error: Class 'Elementor\Widget_Base' not found in C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\widgets\elementor\class.yith-wcwl-elementor-add-to-wishlist.php:15
+Stack trace:
+#0 C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\class.yith-wcwl-shortcode.php(169): include_once()
+#1 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(286): YITH_WCWL_Shortcode::init_elementor_widgets('')
+#2 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\WooCommerce\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\WooCommerce\wp-settings.php(450): do_action('init')
+#5 C:\xampp\htdocs\WooCommerce\wp-config.php(89): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\WooCommerce\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\WooCommerce\wp-admin\admin.php(31): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\WooCommer in C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\widgets\elementor\class.yith-wcwl-elementor-add-to-wishlist.php on line 15
+
+2020-07-21T09:16:49+00:00 CRITICAL Uncaught Error: Class 'Elementor\Widget_Base' not found in C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\widgets\elementor\class.yith-wcwl-elementor-add-to-wishlist.php:15
+Stack trace:
+#0 C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\class.yith-wcwl-shortcode.php(169): include_once()
+#1 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(286): YITH_WCWL_Shortcode::init_elementor_widgets('')
+#2 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\WooCommerce\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\WooCommerce\wp-settings.php(450): do_action('init')
+#5 C:\xampp\htdocs\WooCommerce\wp-config.php(89): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\WooCommerce\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\WooCommerce\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown in C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\widgets\elementor\class.yith-wcwl-elementor-add-to-wishlist.php on line 15
+
+2020-07-21T09:16:54+00:00 CRITICAL Uncaught Error: Class 'Elementor\Widget_Base' not found in C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\widgets\elementor\class.yith-wcwl-elementor-add-to-wishlist.php:15
+Stack trace:
+#0 C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\class.yith-wcwl-shortcode.php(169): include_once()
+#1 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(286): YITH_WCWL_Shortcode::init_elementor_widgets('')
+#2 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\WooCommerce\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\WooCommerce\wp-settings.php(450): do_action('init')
+#5 C:\xampp\htdocs\WooCommerce\wp-config.php(89): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\WooCommerce\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\WooCommerce\wp-cron.php(33): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown in C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\widgets\elementor\class.yith-wcwl-elementor-add-to-wishlist.php on line 15
+
+2020-07-21T09:16:54+00:00 CRITICAL Uncaught Error: Class 'Elementor\Widget_Base' not found in C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\widgets\elementor\class.yith-wcwl-elementor-add-to-wishlist.php:15
+Stack trace:
+#0 C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\class.yith-wcwl-shortcode.php(169): include_once()
+#1 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(286): YITH_WCWL_Shortcode::init_elementor_widgets('')
+#2 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\WooCommerce\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\WooCommerce\wp-settings.php(450): do_action('init')
+#5 C:\xampp\htdocs\WooCommerce\wp-config.php(89): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\WooCommerce\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\WooCommerce\wp-admin\admin.php(31): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\WooCommer in C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\widgets\elementor\class.yith-wcwl-elementor-add-to-wishlist.php on line 15
+
+2020-07-21T09:16:57+00:00 CRITICAL Uncaught Error: Class 'Elementor\Widget_Base' not found in C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\widgets\elementor\class.yith-wcwl-elementor-add-to-wishlist.php:15
+Stack trace:
+#0 C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\class.yith-wcwl-shortcode.php(169): include_once()
+#1 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(286): YITH_WCWL_Shortcode::init_elementor_widgets('')
+#2 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\WooCommerce\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\WooCommerce\wp-settings.php(450): do_action('init')
+#5 C:\xampp\htdocs\WooCommerce\wp-config.php(89): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\WooCommerce\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\WooCommerce\wp-admin\admin.php(31): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\WooCommer in C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\widgets\elementor\class.yith-wcwl-elementor-add-to-wishlist.php on line 15
+
+2020-07-21T09:17:12+00:00 CRITICAL Uncaught Error: Class 'Elementor\Widget_Base' not found in C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\widgets\elementor\class.yith-wcwl-elementor-add-to-wishlist.php:15
+Stack trace:
+#0 C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\class.yith-wcwl-shortcode.php(169): include_once()
+#1 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(286): YITH_WCWL_Shortcode::init_elementor_widgets('')
+#2 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\WooCommerce\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\WooCommerce\wp-settings.php(450): do_action('init')
+#5 C:\xampp\htdocs\WooCommerce\wp-config.php(89): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\WooCommerce\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\WooCommerce\wp-admin\admin.php(31): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\WooCommer in C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\widgets\elementor\class.yith-wcwl-elementor-add-to-wishlist.php on line 15
+
+2020-07-21T09:21:40+00:00 CRITICAL Uncaught Error: Class 'Elementor\Widget_Base' not found in C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\widgets\elementor\class.yith-wcwl-elementor-add-to-wishlist.php:15
+Stack trace:
+#0 C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\class.yith-wcwl-shortcode.php(169): include_once()
+#1 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(286): YITH_WCWL_Shortcode::init_elementor_widgets('')
+#2 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\WooCommerce\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\WooCommerce\wp-settings.php(450): do_action('init')
+#5 C:\xampp\htdocs\WooCommerce\wp-config.php(89): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\WooCommerce\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\WooCommerce\wp-admin\admin.php(31): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\WooCommer in C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\widgets\elementor\class.yith-wcwl-elementor-add-to-wishlist.php on line 15
+
+2020-07-21T09:22:41+00:00 CRITICAL Uncaught Error: Class 'Elementor\Widget_Base' not found in C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\widgets\elementor\class.yith-wcwl-elementor-add-to-wishlist.php:15
+Stack trace:
+#0 C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\class.yith-wcwl-shortcode.php(169): include_once()
+#1 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(286): YITH_WCWL_Shortcode::init_elementor_widgets('')
+#2 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\WooCommerce\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\WooCommerce\wp-settings.php(450): do_action('init')
+#5 C:\xampp\htdocs\WooCommerce\wp-config.php(89): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\WooCommerce\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\WooCommerce\wp-cron.php(33): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown in C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\widgets\elementor\class.yith-wcwl-elementor-add-to-wishlist.php on line 15
+
+2020-07-21T09:22:42+00:00 CRITICAL Uncaught Error: Class 'Elementor\Widget_Base' not found in C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\widgets\elementor\class.yith-wcwl-elementor-add-to-wishlist.php:15
+Stack trace:
+#0 C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\class.yith-wcwl-shortcode.php(169): include_once()
+#1 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(286): YITH_WCWL_Shortcode::init_elementor_widgets('')
+#2 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\WooCommerce\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\WooCommerce\wp-settings.php(450): do_action('init')
+#5 C:\xampp\htdocs\WooCommerce\wp-config.php(89): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\WooCommerce\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\WooCommerce\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown in C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\widgets\elementor\class.yith-wcwl-elementor-add-to-wishlist.php on line 15
+
+2020-07-21T09:24:44+00:00 CRITICAL Uncaught Error: Class 'Elementor\Widget_Base' not found in C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\widgets\elementor\class.yith-wcwl-elementor-add-to-wishlist.php:15
+Stack trace:
+#0 C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\class.yith-wcwl-shortcode.php(169): include_once()
+#1 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(286): YITH_WCWL_Shortcode::init_elementor_widgets('')
+#2 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\WooCommerce\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\WooCommerce\wp-settings.php(450): do_action('init')
+#5 C:\xampp\htdocs\WooCommerce\wp-config.php(89): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\WooCommerce\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\WooCommerce\wp-cron.php(33): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown in C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\widgets\elementor\class.yith-wcwl-elementor-add-to-wishlist.php on line 15
+
+2020-07-21T09:24:44+00:00 CRITICAL Uncaught Error: Class 'Elementor\Widget_Base' not found in C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\widgets\elementor\class.yith-wcwl-elementor-add-to-wishlist.php:15
+Stack trace:
+#0 C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\class.yith-wcwl-shortcode.php(169): include_once()
+#1 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(286): YITH_WCWL_Shortcode::init_elementor_widgets('')
+#2 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\WooCommerce\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\WooCommerce\wp-settings.php(450): do_action('init')
+#5 C:\xampp\htdocs\WooCommerce\wp-config.php(89): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\WooCommerce\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\WooCommerce\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown in C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\widgets\elementor\class.yith-wcwl-elementor-add-to-wishlist.php on line 15
+
+2020-07-21T09:26:44+00:00 CRITICAL Uncaught Error: Class 'Elementor\Widget_Base' not found in C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\widgets\elementor\class.yith-wcwl-elementor-add-to-wishlist.php:15
+Stack trace:
+#0 C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\class.yith-wcwl-shortcode.php(169): include_once()
+#1 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(286): YITH_WCWL_Shortcode::init_elementor_widgets('')
+#2 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\WooCommerce\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\WooCommerce\wp-settings.php(450): do_action('init')
+#5 C:\xampp\htdocs\WooCommerce\wp-config.php(89): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\WooCommerce\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\WooCommerce\wp-cron.php(33): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown in C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\widgets\elementor\class.yith-wcwl-elementor-add-to-wishlist.php on line 15
+
+2020-07-21T09:26:44+00:00 CRITICAL Uncaught Error: Class 'Elementor\Widget_Base' not found in C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\widgets\elementor\class.yith-wcwl-elementor-add-to-wishlist.php:15
+Stack trace:
+#0 C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\class.yith-wcwl-shortcode.php(169): include_once()
+#1 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(286): YITH_WCWL_Shortcode::init_elementor_widgets('')
+#2 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\WooCommerce\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\WooCommerce\wp-settings.php(450): do_action('init')
+#5 C:\xampp\htdocs\WooCommerce\wp-config.php(89): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\WooCommerce\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\WooCommerce\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown in C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\widgets\elementor\class.yith-wcwl-elementor-add-to-wishlist.php on line 15
+
+2020-07-21T09:27:29+00:00 CRITICAL Uncaught Error: Class 'Elementor\Widget_Base' not found in C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\widgets\elementor\class.yith-wcwl-elementor-add-to-wishlist.php:15
+Stack trace:
+#0 C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\class.yith-wcwl-shortcode.php(169): include_once()
+#1 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(286): YITH_WCWL_Shortcode::init_elementor_widgets('')
+#2 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\WooCommerce\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\WooCommerce\wp-settings.php(450): do_action('init')
+#5 C:\xampp\htdocs\WooCommerce\wp-config.php(89): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\WooCommerce\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\WooCommerce\wp-admin\admin.php(31): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\WooCommer in C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\widgets\elementor\class.yith-wcwl-elementor-add-to-wishlist.php on line 15
+
+2020-07-21T09:27:33+00:00 CRITICAL Uncaught Error: Class 'Elementor\Widget_Base' not found in C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\widgets\elementor\class.yith-wcwl-elementor-add-to-wishlist.php:15
+Stack trace:
+#0 C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\class.yith-wcwl-shortcode.php(169): include_once()
+#1 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(286): YITH_WCWL_Shortcode::init_elementor_widgets('')
+#2 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\WooCommerce\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\WooCommerce\wp-settings.php(450): do_action('init')
+#5 C:\xampp\htdocs\WooCommerce\wp-config.php(89): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\WooCommerce\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\WooCommerce\wp-admin\admin.php(31): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\WooCommer in C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\widgets\elementor\class.yith-wcwl-elementor-add-to-wishlist.php on line 15
+
+2020-07-21T09:27:39+00:00 CRITICAL Uncaught Error: Class 'Elementor\Widget_Base' not found in C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\widgets\elementor\class.yith-wcwl-elementor-add-to-wishlist.php:15
+Stack trace:
+#0 C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\class.yith-wcwl-shortcode.php(169): include_once()
+#1 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(286): YITH_WCWL_Shortcode::init_elementor_widgets('')
+#2 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\WooCommerce\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\WooCommerce\wp-settings.php(450): do_action('init')
+#5 C:\xampp\htdocs\WooCommerce\wp-config.php(89): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\WooCommerce\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\WooCommerce\wp-admin\admin.php(31): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\WooCommer in C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\widgets\elementor\class.yith-wcwl-elementor-add-to-wishlist.php on line 15
+
+2020-07-21T09:34:38+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WooCommerce\wp-includes\Requests\Transport\cURL.php on line 463
+
+2020-07-21T09:35:21+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WooCommerce\wp-includes\Requests\Transport\cURL.php on line 463
+
+2020-07-21T09:41:39+00:00 CRITICAL Uncaught Error: Class 'Elementor\Widget_Base' not found in C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\widgets\elementor\class.yith-wcwl-elementor-add-to-wishlist.php:15
+Stack trace:
+#0 C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\class.yith-wcwl-shortcode.php(169): include_once()
+#1 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(286): YITH_WCWL_Shortcode::init_elementor_widgets('')
+#2 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\WooCommerce\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\WooCommerce\wp-settings.php(450): do_action('init')
+#5 C:\xampp\htdocs\WooCommerce\wp-config.php(91): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\WooCommerce\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\WooCommerce\wp-admin\admin.php(31): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\WooCommer in C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\widgets\elementor\class.yith-wcwl-elementor-add-to-wishlist.php on line 15
+
+2020-07-21T09:41:39+00:00 CRITICAL Uncaught Error: Class 'Elementor\Widget_Base' not found in C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\widgets\elementor\class.yith-wcwl-elementor-add-to-wishlist.php:15
+Stack trace:
+#0 C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\class.yith-wcwl-shortcode.php(169): include_once()
+#1 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(286): YITH_WCWL_Shortcode::init_elementor_widgets('')
+#2 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\WooCommerce\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\WooCommerce\wp-settings.php(450): do_action('init')
+#5 C:\xampp\htdocs\WooCommerce\wp-config.php(91): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\WooCommerce\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\WooCommerce\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown in C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\widgets\elementor\class.yith-wcwl-elementor-add-to-wishlist.php on line 15
+
+2020-07-21T09:43:17+00:00 CRITICAL Uncaught Error: Class 'Elementor\Widget_Base' not found in C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\widgets\elementor\class.yith-wcwl-elementor-add-to-wishlist.php:15
+Stack trace:
+#0 C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\class.yith-wcwl-shortcode.php(169): include_once()
+#1 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(286): YITH_WCWL_Shortcode::init_elementor_widgets('')
+#2 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\WooCommerce\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\WooCommerce\wp-settings.php(450): do_action('init')
+#5 C:\xampp\htdocs\WooCommerce\wp-config.php(91): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\WooCommerce\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\WooCommerce\wp-cron.php(33): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown in C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\widgets\elementor\class.yith-wcwl-elementor-add-to-wishlist.php on line 15
+
+2020-07-21T09:43:17+00:00 CRITICAL Uncaught Error: Class 'Elementor\Widget_Base' not found in C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\widgets\elementor\class.yith-wcwl-elementor-add-to-wishlist.php:15
+Stack trace:
+#0 C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\class.yith-wcwl-shortcode.php(169): include_once()
+#1 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(286): YITH_WCWL_Shortcode::init_elementor_widgets('')
+#2 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\WooCommerce\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\WooCommerce\wp-settings.php(450): do_action('init')
+#5 C:\xampp\htdocs\WooCommerce\wp-config.php(91): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\WooCommerce\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\WooCommerce\wp-admin\admin.php(31): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\WooCommer in C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\widgets\elementor\class.yith-wcwl-elementor-add-to-wishlist.php on line 15
+
+2020-07-21T09:43:19+00:00 CRITICAL Uncaught Error: Class 'Elementor\Widget_Base' not found in C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\widgets\elementor\class.yith-wcwl-elementor-add-to-wishlist.php:15
+Stack trace:
+#0 C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\class.yith-wcwl-shortcode.php(169): include_once()
+#1 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(286): YITH_WCWL_Shortcode::init_elementor_widgets('')
+#2 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\WooCommerce\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\WooCommerce\wp-settings.php(450): do_action('init')
+#5 C:\xampp\htdocs\WooCommerce\wp-config.php(91): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\WooCommerce\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\WooCommerce\wp-admin\admin.php(31): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\WooCommer in C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\widgets\elementor\class.yith-wcwl-elementor-add-to-wishlist.php on line 15
+
+2020-07-21T09:43:22+00:00 CRITICAL Uncaught Error: Class 'Elementor\Widget_Base' not found in C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\widgets\elementor\class.yith-wcwl-elementor-add-to-wishlist.php:15
+Stack trace:
+#0 C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\class.yith-wcwl-shortcode.php(169): include_once()
+#1 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(286): YITH_WCWL_Shortcode::init_elementor_widgets('')
+#2 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\WooCommerce\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\WooCommerce\wp-settings.php(450): do_action('init')
+#5 C:\xampp\htdocs\WooCommerce\wp-config.php(91): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\WooCommerce\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\WooCommerce\wp-admin\admin.php(31): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\WooCommer in C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\widgets\elementor\class.yith-wcwl-elementor-add-to-wishlist.php on line 15
+
+2020-07-21T09:43:24+00:00 CRITICAL Uncaught Error: Class 'Elementor\Widget_Base' not found in C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\widgets\elementor\class.yith-wcwl-elementor-add-to-wishlist.php:15
+Stack trace:
+#0 C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\class.yith-wcwl-shortcode.php(169): include_once()
+#1 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(286): YITH_WCWL_Shortcode::init_elementor_widgets('')
+#2 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\WooCommerce\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\WooCommerce\wp-settings.php(450): do_action('init')
+#5 C:\xampp\htdocs\WooCommerce\wp-config.php(91): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\WooCommerce\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\WooCommerce\wp-admin\admin.php(31): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\WooCommer in C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\widgets\elementor\class.yith-wcwl-elementor-add-to-wishlist.php on line 15
+
+2020-07-21T09:43:26+00:00 CRITICAL Uncaught Error: Class 'Elementor\Widget_Base' not found in C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\widgets\elementor\class.yith-wcwl-elementor-add-to-wishlist.php:15
+Stack trace:
+#0 C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\class.yith-wcwl-shortcode.php(169): include_once()
+#1 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(286): YITH_WCWL_Shortcode::init_elementor_widgets('')
+#2 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\WooCommerce\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\WooCommerce\wp-settings.php(450): do_action('init')
+#5 C:\xampp\htdocs\WooCommerce\wp-config.php(91): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\WooCommerce\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\WooCommerce\wp-admin\admin.php(31): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\WooCommer in C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\widgets\elementor\class.yith-wcwl-elementor-add-to-wishlist.php on line 15
+
+2020-07-21T09:43:27+00:00 CRITICAL Uncaught Error: Class 'Elementor\Widget_Base' not found in C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\widgets\elementor\class.yith-wcwl-elementor-add-to-wishlist.php:15
+Stack trace:
+#0 C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\class.yith-wcwl-shortcode.php(169): include_once()
+#1 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(286): YITH_WCWL_Shortcode::init_elementor_widgets('')
+#2 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\WooCommerce\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\WooCommerce\wp-settings.php(450): do_action('init')
+#5 C:\xampp\htdocs\WooCommerce\wp-config.php(91): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\WooCommerce\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\WooCommerce\wp-admin\admin.php(31): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\WooCommer in C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\widgets\elementor\class.yith-wcwl-elementor-add-to-wishlist.php on line 15
+
+2020-07-21T09:43:28+00:00 CRITICAL Uncaught Error: Class 'Elementor\Widget_Base' not found in C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\widgets\elementor\class.yith-wcwl-elementor-add-to-wishlist.php:15
+Stack trace:
+#0 C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\class.yith-wcwl-shortcode.php(169): include_once()
+#1 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(286): YITH_WCWL_Shortcode::init_elementor_widgets('')
+#2 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\WooCommerce\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\WooCommerce\wp-settings.php(450): do_action('init')
+#5 C:\xampp\htdocs\WooCommerce\wp-config.php(91): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\WooCommerce\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\WooCommerce\wp-admin\admin.php(31): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\WooCommer in C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\widgets\elementor\class.yith-wcwl-elementor-add-to-wishlist.php on line 15
+
+2020-07-21T09:43:34+00:00 CRITICAL Uncaught Error: Class 'Elementor\Widget_Base' not found in C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\widgets\elementor\class.yith-wcwl-elementor-add-to-wishlist.php:15
+Stack trace:
+#0 C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\class.yith-wcwl-shortcode.php(169): include_once()
+#1 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(286): YITH_WCWL_Shortcode::init_elementor_widgets('')
+#2 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\WooCommerce\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\WooCommerce\wp-settings.php(450): do_action('init')
+#5 C:\xampp\htdocs\WooCommerce\wp-config.php(91): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\WooCommerce\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\WooCommerce\wp-admin\admin.php(31): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\WooCommer in C:\xampp\htdocs\WooCommerce\wp-content\plugins\yith-woocommerce-wishlist\includes\widgets\elementor\class.yith-wcwl-elementor-add-to-wishlist.php on line 15
+
+2020-07-21T09:46:42+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WooCommerce\wp-includes\Requests\Transport\cURL.php on line 463
+
+2020-07-21T09:47:26+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WooCommerce\wp-includes\Requests\Transport\cURL.php on line 463
+
+2020-07-21T10:09:38+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WooCommerce\wp-admin\includes\post.php on line 20
+

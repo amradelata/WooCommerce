@@ -1,0 +1,98 @@
+2020-07-22T08:09:26+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WooCommerce\wp-includes\Requests\Transport\cURL.php on line 441
+
+2020-07-22T08:45:45+00:00 CRITICAL Uncaught Error: Call to undefined function shop_elite_woocommerce_header_cart() in C:\xampp\htdocs\WooCommerce\wp-content\themes\shop-elite\inc\hooks\header.php:400
+Stack trace:
+#0 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(286): shop_elite_header_main_navigation('')
+#1 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\WooCommerce\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\WooCommerce\wp-content\themes\shop-elite\inc\hooks\header.php(88): do_action('shop_elite_head...')
+#4 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(286): shop_elite_header_content('')
+#5 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 C:\xampp\htdocs\WooCommerce\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#7 C:\xampp\htdocs\WooCommerce\wp-content\themes\shop-elite\header.php(43): do_action('shop_elite_head...')
+#8 C:\xampp\htdocs\WooCommerce\wp-includes in C:\xampp\htdocs\WooCommerce\wp-content\themes\shop-elite\inc\hooks\header.php on line 400
+
+2020-07-22T08:45:45+00:00 CRITICAL Uncaught Error: Call to undefined function shop_elite_woocommerce_header_cart() in C:\xampp\htdocs\WooCommerce\wp-content\themes\shop-elite\inc\hooks\header.php:400
+Stack trace:
+#0 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(286): shop_elite_header_main_navigation('')
+#1 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\WooCommerce\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\WooCommerce\wp-content\themes\shop-elite\inc\hooks\header.php(88): do_action('shop_elite_head...')
+#4 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(286): shop_elite_header_content('')
+#5 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 C:\xampp\htdocs\WooCommerce\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#7 C:\xampp\htdocs\WooCommerce\wp-content\themes\shop-elite\header.php(43): do_action('shop_elite_head...')
+#8 C:\xampp\htdocs\WooCommerce\wp-includes in C:\xampp\htdocs\WooCommerce\wp-content\themes\shop-elite\inc\hooks\header.php on line 400
+
+2020-07-22T08:45:45+00:00 CRITICAL Uncaught Error: Call to undefined function shop_elite_woocommerce_header_cart() in C:\xampp\htdocs\WooCommerce\wp-content\themes\shop-elite\inc\hooks\header.php:400
+Stack trace:
+#0 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(286): shop_elite_header_main_navigation('')
+#1 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\WooCommerce\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\WooCommerce\wp-content\themes\shop-elite\inc\hooks\header.php(88): do_action('shop_elite_head...')
+#4 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(286): shop_elite_header_content('')
+#5 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 C:\xampp\htdocs\WooCommerce\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#7 C:\xampp\htdocs\WooCommerce\wp-content\themes\shop-elite\header.php(43): do_action('shop_elite_head...')
+#8 C:\xampp\htdocs\WooCommerce\wp-includes in C:\xampp\htdocs\WooCommerce\wp-content\themes\shop-elite\inc\hooks\header.php on line 400
+
+2020-07-22T08:45:45+00:00 CRITICAL Uncaught Error: Call to undefined function shop_elite_woocommerce_header_cart() in C:\xampp\htdocs\WooCommerce\wp-content\themes\shop-elite\inc\hooks\header.php:400
+Stack trace:
+#0 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(286): shop_elite_header_main_navigation('')
+#1 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\WooCommerce\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\WooCommerce\wp-content\themes\shop-elite\inc\hooks\header.php(88): do_action('shop_elite_head...')
+#4 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(286): shop_elite_header_content('')
+#5 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 C:\xampp\htdocs\WooCommerce\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#7 C:\xampp\htdocs\WooCommerce\wp-content\themes\shop-elite\header.php(43): do_action('shop_elite_head...')
+#8 C:\xampp\htdocs\WooCommerce\wp-includes in C:\xampp\htdocs\WooCommerce\wp-content\themes\shop-elite\inc\hooks\header.php on line 400
+
+2020-07-22T08:45:47+00:00 CRITICAL Uncaught Error: Call to undefined function shop_elite_woocommerce_header_cart() in C:\xampp\htdocs\WooCommerce\wp-content\themes\shop-elite\inc\hooks\header.php:400
+Stack trace:
+#0 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(286): shop_elite_header_main_navigation('')
+#1 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\WooCommerce\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\WooCommerce\wp-content\themes\shop-elite\inc\hooks\header.php(88): do_action('shop_elite_head...')
+#4 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(286): shop_elite_header_content('')
+#5 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 C:\xampp\htdocs\WooCommerce\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#7 C:\xampp\htdocs\WooCommerce\wp-content\themes\shop-elite\header.php(43): do_action('shop_elite_head...')
+#8 C:\xampp\htdocs\WooCommerce\wp-includes in C:\xampp\htdocs\WooCommerce\wp-content\themes\shop-elite\inc\hooks\header.php on line 400
+
+2020-07-22T08:46:04+00:00 CRITICAL Uncaught Error: Call to undefined function shop_elite_woocommerce_header_cart() in C:\xampp\htdocs\WooCommerce\wp-content\themes\shop-elite\inc\hooks\header.php:400
+Stack trace:
+#0 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(286): shop_elite_header_main_navigation('')
+#1 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\WooCommerce\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\WooCommerce\wp-content\themes\shop-elite\inc\hooks\header.php(88): do_action('shop_elite_head...')
+#4 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(286): shop_elite_header_content('')
+#5 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 C:\xampp\htdocs\WooCommerce\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#7 C:\xampp\htdocs\WooCommerce\wp-content\themes\shop-elite\header.php(43): do_action('shop_elite_head...')
+#8 C:\xampp\htdocs\WooCommerce\wp-includes in C:\xampp\htdocs\WooCommerce\wp-content\themes\shop-elite\inc\hooks\header.php on line 400
+
+2020-07-22T08:46:06+00:00 CRITICAL Uncaught Error: Call to undefined function shop_elite_woocommerce_header_cart() in C:\xampp\htdocs\WooCommerce\wp-content\themes\shop-elite\inc\hooks\header.php:400
+Stack trace:
+#0 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(286): shop_elite_header_main_navigation('')
+#1 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\WooCommerce\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\WooCommerce\wp-content\themes\shop-elite\inc\hooks\header.php(88): do_action('shop_elite_head...')
+#4 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(286): shop_elite_header_content('')
+#5 C:\xampp\htdocs\WooCommerce\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 C:\xampp\htdocs\WooCommerce\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#7 C:\xampp\htdocs\WooCommerce\wp-content\themes\shop-elite\header.php(43): do_action('shop_elite_head...')
+#8 C:\xampp\htdocs\WooCommerce\wp-includes in C:\xampp\htdocs\WooCommerce\wp-content\themes\shop-elite\inc\hooks\header.php on line 400
+
+2020-07-22T08:49:04+00:00 CRITICAL syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\xampp\htdocs\WooCommerce\wp-content\themes\shop-elite\inc\woocommerce\woocommerce.php on line 367
+
+2020-07-22T08:49:04+00:00 CRITICAL syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\xampp\htdocs\WooCommerce\wp-content\themes\shop-elite\inc\woocommerce\woocommerce.php on line 367
+
+2020-07-22T17:45:16+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WooCommerce\wp-includes\widgets\class-wp-widget-custom-html.php on line 17
+
+2020-07-22T17:51:13+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WooCommerce\wp-content\themes\shop-elite\inc\hooks\front-page.php on line 2
+
+2020-07-22T17:51:18+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WooCommerce\wp-admin\includes\media.php on line 16
+
+2020-07-22T18:22:27+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WooCommerce\wp-includes\wp-db.php on line 1924
+

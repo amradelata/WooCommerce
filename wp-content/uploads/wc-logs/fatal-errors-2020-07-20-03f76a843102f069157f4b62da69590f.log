@@ -1,0 +1,134 @@
+2020-07-20T10:43:34+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WooCommerce\wp-admin\includes\class-wp-filesystem-direct.php on line 62
+
+2020-07-20T10:46:31+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WooCommerce\wp-includes\Requests\Transport\cURL.php on line 463
+
+2020-07-20T10:47:55+00:00 CRITICAL Uncaught Exception: Invalid data store. in C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-data-store.php:107
+Stack trace:
+#0 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(139): WC_Data_Store->__construct('admin')
+#1 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce-admin\src\Notes\WC_Admin_Notes.php(104): WC_Data_Store::load('admin-note')
+#2 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce-admin\src\Notes\WC_Admin_Notes_Deactivate_Plugin.php(60): Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes::delete_notes_with_name(Array)
+#3 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Package.php(60): Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes_Deactivate_Plugin::delete_note()
+#4 [internal function]: Automattic\WooCommerce\Admin\Composer\Package::init()
+#5 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\src\Packages.php(72): call_user_func(Array)
+#6 C:\xampp\htdocs\W in C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-data-store.php on line 107
+
+2020-07-20T10:48:25+00:00 CRITICAL Uncaught Exception: Invalid data store. in C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-data-store.php:107
+Stack trace:
+#0 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(139): WC_Data_Store->__construct('admin')
+#1 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce-admin\src\Notes\WC_Admin_Notes.php(104): WC_Data_Store::load('admin-note')
+#2 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce-admin\src\Notes\WC_Admin_Notes_Deactivate_Plugin.php(60): Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes::delete_notes_with_name(Array)
+#3 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Package.php(60): Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes_Deactivate_Plugin::delete_note()
+#4 [internal function]: Automattic\WooCommerce\Admin\Composer\Package::init()
+#5 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\src\Packages.php(72): call_user_func(Array)
+#6 C:\xampp\htdocs\W in C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-data-store.php on line 107
+
+2020-07-20T10:48:28+00:00 CRITICAL Uncaught Exception: Invalid data store. in C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-data-store.php:107
+Stack trace:
+#0 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(139): WC_Data_Store->__construct('admin')
+#1 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce-admin\src\Notes\WC_Admin_Notes.php(104): WC_Data_Store::load('admin-note')
+#2 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce-admin\src\Notes\WC_Admin_Notes_Deactivate_Plugin.php(60): Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes::delete_notes_with_name(Array)
+#3 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Package.php(60): Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes_Deactivate_Plugin::delete_note()
+#4 [internal function]: Automattic\WooCommerce\Admin\Composer\Package::init()
+#5 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\src\Packages.php(72): call_user_func(Array)
+#6 C:\xampp\htdocs\W in C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-data-store.php on line 107
+
+2020-07-20T10:48:30+00:00 CRITICAL Uncaught Exception: Invalid data store. in C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-data-store.php:107
+Stack trace:
+#0 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(139): WC_Data_Store->__construct('admin')
+#1 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce-admin\src\Notes\WC_Admin_Notes.php(104): WC_Data_Store::load('admin-note')
+#2 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce-admin\src\Notes\WC_Admin_Notes_Deactivate_Plugin.php(60): Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes::delete_notes_with_name(Array)
+#3 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Package.php(60): Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes_Deactivate_Plugin::delete_note()
+#4 [internal function]: Automattic\WooCommerce\Admin\Composer\Package::init()
+#5 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\src\Packages.php(72): call_user_func(Array)
+#6 C:\xampp\htdocs\W in C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-data-store.php on line 107
+
+2020-07-20T10:48:32+00:00 CRITICAL Uncaught Exception: Invalid data store. in C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-data-store.php:107
+Stack trace:
+#0 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(139): WC_Data_Store->__construct('admin')
+#1 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce-admin\src\Notes\WC_Admin_Notes.php(104): WC_Data_Store::load('admin-note')
+#2 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce-admin\src\Notes\WC_Admin_Notes_Deactivate_Plugin.php(60): Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes::delete_notes_with_name(Array)
+#3 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Package.php(60): Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes_Deactivate_Plugin::delete_note()
+#4 [internal function]: Automattic\WooCommerce\Admin\Composer\Package::init()
+#5 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\src\Packages.php(72): call_user_func(Array)
+#6 C:\xampp\htdocs\W in C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-data-store.php on line 107
+
+2020-07-20T10:48:34+00:00 CRITICAL Uncaught Exception: Invalid data store. in C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-data-store.php:107
+Stack trace:
+#0 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(139): WC_Data_Store->__construct('admin')
+#1 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce-admin\src\Notes\WC_Admin_Notes.php(104): WC_Data_Store::load('admin-note')
+#2 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce-admin\src\Notes\WC_Admin_Notes_Deactivate_Plugin.php(60): Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes::delete_notes_with_name(Array)
+#3 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Package.php(60): Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes_Deactivate_Plugin::delete_note()
+#4 [internal function]: Automattic\WooCommerce\Admin\Composer\Package::init()
+#5 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\src\Packages.php(72): call_user_func(Array)
+#6 C:\xampp\htdocs\W in C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-data-store.php on line 107
+
+2020-07-20T10:48:42+00:00 CRITICAL Uncaught Exception: Invalid data store. in C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-data-store.php:107
+Stack trace:
+#0 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(139): WC_Data_Store->__construct('admin')
+#1 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce-admin\src\Notes\WC_Admin_Notes.php(104): WC_Data_Store::load('admin-note')
+#2 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce-admin\src\Notes\WC_Admin_Notes_Deactivate_Plugin.php(60): Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes::delete_notes_with_name(Array)
+#3 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Package.php(60): Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes_Deactivate_Plugin::delete_note()
+#4 [internal function]: Automattic\WooCommerce\Admin\Composer\Package::init()
+#5 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\src\Packages.php(72): call_user_func(Array)
+#6 C:\xampp\htdocs\W in C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-data-store.php on line 107
+
+2020-07-20T10:48:49+00:00 CRITICAL Uncaught Exception: Invalid data store. in C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-data-store.php:107
+Stack trace:
+#0 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(139): WC_Data_Store->__construct('admin')
+#1 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce-admin\src\Notes\WC_Admin_Notes.php(104): WC_Data_Store::load('admin-note')
+#2 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce-admin\src\Notes\WC_Admin_Notes_Deactivate_Plugin.php(60): Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes::delete_notes_with_name(Array)
+#3 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Package.php(60): Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes_Deactivate_Plugin::delete_note()
+#4 [internal function]: Automattic\WooCommerce\Admin\Composer\Package::init()
+#5 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\src\Packages.php(72): call_user_func(Array)
+#6 C:\xampp\htdocs\W in C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-data-store.php on line 107
+
+2020-07-20T10:48:54+00:00 CRITICAL Uncaught Exception: Invalid data store. in C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-data-store.php:107
+Stack trace:
+#0 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(139): WC_Data_Store->__construct('admin')
+#1 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce-admin\src\Notes\WC_Admin_Notes.php(104): WC_Data_Store::load('admin-note')
+#2 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce-admin\src\Notes\WC_Admin_Notes_Deactivate_Plugin.php(60): Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes::delete_notes_with_name(Array)
+#3 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Package.php(60): Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes_Deactivate_Plugin::delete_note()
+#4 [internal function]: Automattic\WooCommerce\Admin\Composer\Package::init()
+#5 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\src\Packages.php(72): call_user_func(Array)
+#6 C:\xampp\htdocs\W in C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-data-store.php on line 107
+
+2020-07-20T10:49:23+00:00 CRITICAL Uncaught Exception: Invalid data store. in C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-data-store.php:107
+Stack trace:
+#0 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(139): WC_Data_Store->__construct('admin')
+#1 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce-admin\src\Notes\WC_Admin_Notes.php(104): WC_Data_Store::load('admin-note')
+#2 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce-admin\src\Notes\WC_Admin_Notes_Deactivate_Plugin.php(60): Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes::delete_notes_with_name(Array)
+#3 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Package.php(60): Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes_Deactivate_Plugin::delete_note()
+#4 [internal function]: Automattic\WooCommerce\Admin\Composer\Package::init()
+#5 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\src\Packages.php(72): call_user_func(Array)
+#6 C:\xampp\htdocs\W in C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-data-store.php on line 107
+
+2020-07-20T10:49:26+00:00 CRITICAL Uncaught Exception: Invalid data store. in C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-data-store.php:107
+Stack trace:
+#0 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(139): WC_Data_Store->__construct('admin')
+#1 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce-admin\src\Notes\WC_Admin_Notes.php(104): WC_Data_Store::load('admin-note')
+#2 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce-admin\src\Notes\WC_Admin_Notes_Deactivate_Plugin.php(60): Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes::delete_notes_with_name(Array)
+#3 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Package.php(60): Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes_Deactivate_Plugin::delete_note()
+#4 [internal function]: Automattic\WooCommerce\Admin\Composer\Package::init()
+#5 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\src\Packages.php(72): call_user_func(Array)
+#6 C:\xampp\htdocs\W in C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-data-store.php on line 107
+
+2020-07-20T10:49:41+00:00 CRITICAL Uncaught Exception: Invalid data store. in C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-data-store.php:107
+Stack trace:
+#0 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(139): WC_Data_Store->__construct('admin')
+#1 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce-admin\src\Notes\WC_Admin_Notes.php(104): WC_Data_Store::load('admin-note')
+#2 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce-admin\src\Notes\WC_Admin_Notes_Deactivate_Plugin.php(60): Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes::delete_notes_with_name(Array)
+#3 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Package.php(60): Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes_Deactivate_Plugin::delete_note()
+#4 [internal function]: Automattic\WooCommerce\Admin\Composer\Package::init()
+#5 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\src\Packages.php(72): call_user_func(Array)
+#6 C:\xampp\htdocs\W in C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-data-store.php on line 107
+
+2020-07-20T10:50:09+00:00 CRITICAL Uncaught Exception: Invalid data store. in C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-data-store.php:107
+Stack trace:
+#0 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(139): WC_Data_Store->__construct('admin')
+#1 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce-admin\src\Notes\WC_Admin_Notes.php(104): WC_Data_Store::load('admin-note')
+#2 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce-admin\src\Notes\WC_Admin_Notes_Deactivate_Plugin.php(60): Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes::delete_notes_with_name(Array)
+#3 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Package.php(60): Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes_Deactivate_Plugin::delete_note()
+#4 [internal function]: Automattic\WooCommerce\Admin\Composer\Package::init()
+#5 C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\src\Packages.php(72): call_user_func(Array)
+#6 C:\xampp\htdocs\W in C:\xampp\htdocs\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-data-store.php on line 107
+
